@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Rakhee Singh</title>
-	<atom:link href="https://rakhee06.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rakhee06.github.io/portfolio/</link>
+	<atom:link href="https://rakhee06.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rakhee06.github.io/</link>
 	<description>A Developer. A Designer</description>
 	<lastBuildDate>Thu, 10 Jan 2019 18:26:16 +0000</lastBuildDate>
 	<language>en-US</language>

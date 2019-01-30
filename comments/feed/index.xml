@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments for Rakhee Singh</title>
-	<atom:link href="https://rakhee06.github.io/portfolio/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rakhee06.github.io/portfolio/</link>
+	<atom:link href="https://rakhee06.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rakhee06.github.io/</link>
 	<description>A Developer. A Designer</description>
 	<lastBuildDate>Thu, 10 Jan 2019 18:51:26 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
