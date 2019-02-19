@@ -1,4 +1,7 @@
 # Portfolio
-#### A Personal Website that showcases my work
+Personal Website that showcases my work
 
-##### Technologies used are JavaScript, HTML and CSS
+##### Technologies used
+    - JavaScript
+    - HTML
+    - CSS
